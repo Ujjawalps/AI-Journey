@@ -1,5 +1,11 @@
 # 🚀 AI-Journey
 
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES2023-yellow)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![Status](https://img.shields.io/badge/Progress-In%20Progress-blue)
+![License](https://img.shields.io/badge/License-MIT-purple)
+
 > My journey to becoming an AI Engineer & Backend Engineer by building real-world Generative AI and Agentic AI applications from scratch.
 
 ---
