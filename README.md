@@ -16,6 +16,8 @@ This repository documents my complete learning journey into **Generative AI**, *
 
 Instead of only watching tutorials, every concept I learn is implemented through a hands-on project. Each project contains:
 
+- Watch this 30 min video if you're starting as fresher [click](https://youtu.be/vUYnRGotTbo?si=8Ph01nzexBCTbay5)
+
 - 📖 Detailed notes
 - 🧠 Engineering concepts
 - 💻 Source code
